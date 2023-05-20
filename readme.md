@@ -2,6 +2,8 @@
 
 The ByteStream library provides a set of functions to work with byte streams in C. It allows you to easily perform operations such as reading and writing bytes, integers, strings, as well as serializing and deserializing data using the CJSON library.
 
+!! **Current setup is for MacOS using Homebrew. If you're using Windows or Linux, you will need to edit the CMake** !!
+
 ## Features
 
 - Create a byte stream with a specified size.
